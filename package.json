@@ -1,0 +1,23 @@
+{
+  "name": "@flamescape/gaxicast",
+  "version": "1.0.0",
+  "description": "Use this to \"broadcast\" an HTTP request to all servers behind a name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikuso/gaxicast.git"
+  },
+  "keywords": [],
+  "author": "Gareth Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikuso/gaxicast/issues"
+  },
+  "homepage": "https://github.com/mikuso/gaxicast#readme",
+  "dependencies": {
+    "gaxios": "^4.3.2"
+  }
+}
